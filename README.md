@@ -28,3 +28,6 @@ Output binary: target\release\onion_garlic_watch.exe
 
 - Replace PowerShell backend with pure Rust for full portability
 - Add optional logging or GUI mode
+
+<img width="795" height="381" alt="image" src="https://github.com/user-attachments/assets/6d40e940-ac54-4a87-849b-88d61e8ba860" />
+
